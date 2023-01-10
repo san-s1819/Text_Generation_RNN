@@ -21,4 +21,4 @@ A brief description of each file:
 
 > NOTE : This model took 6-7 hrs for 100 epochs on a i3 4th gen @ 1.70 Ghz processor,8gb ram machine. Please use kaggle/ Google colab for faster training.
 
-Approximate accuracy of 62% was obtained.
+Approximate accuracy of 70% was obtained.
